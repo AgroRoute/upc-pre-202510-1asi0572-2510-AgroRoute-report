@@ -6,8 +6,8 @@
 
 <strong>Ingeniería de Software</strong> 
    
-<p><strong>Curso: </strong>Desarrollo de Soluciones IoT</p> 
-<p><strong>Profesor: </strong></p> 
+<p><strong>Desarrollo de Soluciones IoT</strong></p> 
+<p><strong>Profesor: </strong>León Baca, Marco Antonio</p> 
 <p><strong>Ciclo: </strong>2025-1</p> 
 <p><strong>Sección: </strong></p> 
  
