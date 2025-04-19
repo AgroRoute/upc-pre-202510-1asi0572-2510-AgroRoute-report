@@ -3,11 +3,11 @@
 
 ## Capítulo I: Introducción 
 
-### 1.1. [*Startup Profile*](/Capítulos/Capítulo_I_Introducción.md#1.1-Startup-Profile)
+### 1.1. [Startup Profile](/Capítulos/Capítulo_I_Introducción.md#1.1-Startup-Profile)
 - [1.1.1. Descripción de la Startup](/Capítulos/Capítulo_I_Introducción.md#1.1.1-Descripción-de-la-Startup)  
 - [1.1.2. Perfiles de integrantes del equipo](/Capítulos/Capítulo_I_Introducción.md#1.1.2-Perfiles-de-los-integrantes-del-equipo)
 
-### 1.2. [*Solution Profile*](/Capítulos/Capítulo_I_Introducción.md#1.2-Solution-Profile)
+### 1.2. [Solution Profile](/Capítulos/Capítulo_I_Introducción.md#1.2-Solution-Profile)
 - [1.2.1. Antecedentes y problemática](/Capítulos/Capítulo_I_Introducción.md#1.2.1-Antecedentes-y-problemática)  
 - [1.2.2. Lean UX Process](/Capítulos/Capítulo_I_Introducción.md#1.2.2-Lean-UX-Process)  
   - [1.2.2.1. Lean UX Problem Statements](/Capítulos/Capítulo_I_Introducción.md#1.2.2.1-Lean-UX-Problem-Statements)  
