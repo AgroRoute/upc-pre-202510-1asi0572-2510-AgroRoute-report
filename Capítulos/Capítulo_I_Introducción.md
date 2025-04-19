@@ -2,7 +2,7 @@
 
 <p align="left"><a href="">Volver a tabla de contenidos</a></p>
 
-# Capítulo 1: Introducción 
+# Capítulo I: Introducción 
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
