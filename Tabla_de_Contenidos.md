@@ -3,7 +3,7 @@
 
 ### Capítulo I: Introducción
 
-#### 1.1. [*Startup Profile*](capitulo1.md#11-startup-profile)
+#### 1.1. [*Startup Profile*](/Capítulos/Capítulo_I_Introducción.md#1.1-Startup-Profile)
 - [1.1.1. Descripción de la Startup](capitulo1.md#111-descripción-de-la-startup)  
 - [1.1.2. Perfiles de integrantes del equipo](capitulo1.md#112-perfiles-de-integrantes-del-equipo)
 
