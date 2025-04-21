@@ -40,15 +40,15 @@
 
 ### 2.3.3. User Journey Mapping
 
-![UserJourneyMapping](https://raw.githubusercontent.com/Damarists/Photos/refs/heads/main/User%20Journey%20Map.png?token=GHSAT0AAAAAADBTUDMAKPS4AS5EKGRU6AGK2AFXXOA)
+![UserJourneyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/cap%C3%ADtulo-2-UserJourneyMapping/resources/images/User%20Journey%20Map.png?raw=true)
 
 ### 2.3.4. Empathy Mapping
 
-![EmpathyMapping](https://raw.githubusercontent.com/Damarists/Photos/refs/heads/main/Emphaty.png?token=GHSAT0AAAAAADBTUDMA7HI3MSWUHWIJGYWM2AFXXWQ)
+![EmpathyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/cap%C3%ADtulo-2-UserJourneyMapping/resources/images/Emphaty.png?raw=true)
 
 ### 2.3.5. As-is Scenario Mapping
 
-![Asis](https://raw.githubusercontent.com/Damarists/Photos/refs/heads/main/asis.png?token=GHSAT0AAAAAADBTUDMB3RGVEYZPB7QQOX642AFXX7Q)
+![Asis](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/cap%C3%ADtulo-2-UserJourneyMapping/resources/images/asis.png?raw=true)
 
 ## 2.4. Ubiquitous Language
 
@@ -75,7 +75,7 @@
 
 ## 3.1. To Be Scenario Mapping
 
-![tobe](https://raw.githubusercontent.com/Damarists/Photos/refs/heads/main/asis.png?token=GHSAT0AAAAAADBTUDMB3RGVEYZPB7QQOX642AFXX7Q)
+![tobe](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/cap%C3%ADtulo-2-UserJourneyMapping/resources/images/tobe.png?raw=true)
 
 ## 3.2 User Stories
 
