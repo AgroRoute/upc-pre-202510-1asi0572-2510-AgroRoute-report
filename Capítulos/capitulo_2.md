@@ -169,6 +169,179 @@ Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana d
 Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute
 
 ### 2.2.2. Registro de entrevistas
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding.
