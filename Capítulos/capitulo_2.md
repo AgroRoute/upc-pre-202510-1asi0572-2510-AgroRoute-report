@@ -377,4 +377,4 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 
 
 
-<p align="right"><a href="Capítulo_III.md">Ir a Capítulo II</a></p>
+<p align="right"><a href="Capítulo_III.md">Ir a Capítulo III</a></p>
