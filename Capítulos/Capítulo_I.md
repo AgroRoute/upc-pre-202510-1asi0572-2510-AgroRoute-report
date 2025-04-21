@@ -41,12 +41,13 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
-        <img src="" width="150" height="100" alt="Integrante 2">
+        <img src="https://i.postimg.cc/d1grhS8x/Whats-App-Image-2025-04-21-at-09-10-49.jpg" width="150" height="100" alt="Integrante 2">
       </td>
       <td>
         <p style="text-align: justify;">
-          <strong>Apellidos y Nombres</strong><br>
-          Descripción
+          <strong>Martinez Carbajal, Mariela</strong><br>
+           Soy estudiante de noveno ciclo de Ingeniería de Software. Me motiva seguir aprendiendo y adquirir nuevas herramientas que me permitan diseñar y desarrollar soluciones innovadoras. Me considero una persona comprometida, que 
+           valora el trabajo en equipo y siempre busca aportar al grupo.
         </p>
       </td>
     </tr>
