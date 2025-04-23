@@ -22,12 +22,17 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   <tbody>
     <tr>
       <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-      <td></td>
+      <td><b>Mariela Martinez Carbajal</b> <br>
+      <i>TB1</i> <br>
+      Colaboré en la revisión de entrevistas dirigidas al segmento Transportista, garantizando una adecuada estructuración de la información y apoyando en la edición de los documentos correspondientes.<br>
+      </td>
       <td></td>
     </tr>
     <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
-      <td></td>
+      <td><b>Mariela Martinez Carbajal</b> <br>
+      <i>TB1</i> <br>
+       Promoví la ejecución estratégica de entrevistas, incentivando la participación activa del equipo y asegurando un enfoque colaborativo en su desarrollo.</td>
       <td></td>
     </tr>
   </tbody>
