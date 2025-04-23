@@ -190,9 +190,11 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
         <p style="text-align: justify; margin: 10px 0;">
           <strong>Descripción:</strong>
         </p>
-        <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
-        </p>
+        <p>La entrevista fue realizada a María Fernanda Salazar Contreras, asistente de logística y operaciones postcosecha en AgroAndes del Sur SAC, ubicada en Ica. La empresa exporta productos perecibles como uva de mesa y palta, y 
+           realiza envíos frecuentes, especialmente en temporada alta. Actualmente utilizan GPS y termómetros manuales, pero carecen de un sistema en tiempo real. Han enfrentado pérdidas por deshidratación de productos durante el 
+           traslado, lo cual generó costos y conflictos con compradores. María Fernanda considera muy útil una plataforma de monitoreo en tiempo real que permita visualizar ubicación, temperatura y humedad desde el celular o laptop, 
+           y que emita alertas en caso de condiciones inadecuadas. Además, destaca la importancia de reportes exportables, alarmas configurables según el producto, y el historial completo del viaje. Se mostró entusiasta con la 
+           iniciativa de AgroRoute y su potencial para mejorar el manejo de productos delicados. </p>
       </td>
     </tr>
   </tbody>
