@@ -34,6 +34,9 @@
 #### Abril,2025
 </div>
 
+<p align="left"><a href="">Volver a tabla de contenidos</a></p>
+<div style="text-align: justify;">
+
 # Requirements Elicitation & Analysis 
 ## 2.1. Competidores 
 
@@ -202,6 +205,179 @@ Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana d
 Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute
 
 ### 2.2.2. Registro de entrevistas
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://i.postimg.cc/g0Rvmd17/Whats-App-Image-2025-04-22-at-23-06-32.jpg" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link">[https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
+  <thead>
+    <tr>
+      <th colspan="1">Entrevista N° 6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p style="text-align: justify; margin: 10px 0;">
+          <strong>Descripción:</strong>
+        </p>
+        <p style="text-align: justify;">
+          Aquí va la descripción de la entrevista.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding.
@@ -214,6 +390,7 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 
 ### 2.3.2. User Task Matrix
 
+**Cuadro Task Matrix de ambos usuarios**
 
 **Cuadro Task Matrix del usuario objetivo: Empresas transportistas de productos perecibles**
 
@@ -232,6 +409,11 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 
 
 
+
+
+
+
+<p align="right"><a href="Capítulo_III.md">Ir a Capítulo III</a></p>
 
 
 <p align="right">(<a href="">Tabla de contenidos</a>)</p>
