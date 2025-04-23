@@ -35,7 +35,7 @@ En esta sección, se realiza un análisis detallado de los principales competido
     <td>AgroRoute</td>
     <td>Sensitech</td>
     <td>SmartAgroTrack</td>
-    <td>ColdChain Monitor</td>
+    <td>ColdChain Control</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
