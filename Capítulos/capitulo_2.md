@@ -179,9 +179,9 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
   <tbody>
     <tr>
       <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <img src="https://i.postimg.cc/g0Rvmd17/Whats-App-Image-2025-04-22-at-23-06-32.jpg" width="750" height="200" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+          <strong>URL de entrevista:</strong> <a href="https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link">[https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link]</a>
         </p>
       </td>
     </tr>
@@ -368,10 +368,6 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 | Consultar ETA (tiempo estimado de llegada)            | Siempre        | Alta            |
 | Descargar historial de condiciones del transporte     | A veces        | Media           |
 | Compatible con dispositivos móviles y GPS del camión  | Siempre        | Alta            |
-
-
-
-
 
 
 
