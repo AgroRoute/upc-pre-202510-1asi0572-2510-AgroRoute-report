@@ -53,12 +53,12 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
-        <img src="" width="150" height="100" alt="Integrante 3">
+        <img src="https://raw.githubusercontent.com/DiegoDA04/images/refs/heads/main/profile_images/Foto_Diegociento.png" width="150" height="100" alt="Integrante 3">
       </td>
       <td>
         <p style="text-align: justify;">
-          <strong>Apellidos y Nombres</strong><br>
-          Descripción
+          <strong>De La Cruz Arellano, Diego</strong><br>
+          Soy estudiante de Ingeniería de Software, de decimo ciclo, en la UPC.  Soy responsable, observador y perseverante. Tengo experiencia en los lenguajes de programación C++, Java y JavaScript. Me gusta diseñar y desarrollar las interfaces de usuario, por lo que tengo conocimientos en Frontend con el framework Angular, además del desarrollo del Backend con Springboot. Me considero una persona autodidacta que tiene la facilidad de aprender y adaptarse a nuevas tecnologías.
         </p>
       </td>
     </tr>
