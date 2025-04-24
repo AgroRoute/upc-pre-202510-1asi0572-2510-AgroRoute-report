@@ -181,7 +181,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
       <td align="center">
         <img src="https://i.postimg.cc/g0Rvmd17/Whats-App-Image-2025-04-22-at-23-06-32.jpg" width="750" height="200" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link">[https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link]</a>
+          <strong>URL de entrevista:</strong> <a href="https://drive.google.com/file/d/1pSYJeP_GGNppvH3gobgBeupc1p-9xbiq/view?usp=drive_link">[Entrevista]</a>
         </p>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
       <td align="center">
         <img src="" width="750" height="200" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+          <strong>URL de entrevista:</strong> <a href="">[Entrevista]</a>
         </p>
       </td>
     </tr>
@@ -222,7 +222,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
           <strong>Descripción:</strong>
         </p>
         <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
+          La entrevista fue realizada a Katherine Milagros Palomino Huamán, supervisora de logística en Transportes Agrícola del Norte S.A.C., ubicada en Trujillo. Su empresa se dedica al transporte de productos perecibles como espárrago, palta y arándano, realizando envíos interprovinciales frecuentes, especialmente durante las campañas de exportación. Actualmente utilizan dispositivos de GPS y controles manuales de temperatura mediante registradores portátiles. Sin embargo, Katherine comentó que han tenido dificultades para detectar a tiempo cambios bruscos de temperatura, lo que ha ocasionado pérdidas en la calidad del producto al momento de la entrega. Considera sumamente útil contar con un sistema que proporcione información en tiempo real sobre ubicación, temperatura y humedad, ya que les permitiría tomar acciones inmediatas ante cualquier desviación. Además, mostró interés en funcionalidades como alertas automáticas, reportes históricos descargables y visualización desde dispositivos móviles o laptops. Katherine valoró positivamente la propuesta de AgroRoute, señalando que su empresa estaría interesada en probar soluciones tecnológicas que ayuden a preservar la calidad de los productos y optimizar la logística del transporte agroindustrial.
         </p>
       </td>
     </tr>
