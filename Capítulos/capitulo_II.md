@@ -164,7 +164,7 @@ Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana d
 Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute
 
 ### 2.2.2. Registro de entrevistas
-
+ - Segmento Objetivo: Empresas Transportistas de Productos Perecibles
 <table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
   <thead>
     <tr>
@@ -340,6 +340,76 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
 
 
 ### 2.2.3. Análisis de entrevistas
+
+<h3>Análisis Detallado – Segmento Objetivo: Empresas Transportistas de Productos Perecibles</h3>
+
+<table border="1" cellpadding="12" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 15px;">
+  <thead style="background-color: #e0e0e0;">
+    <tr>
+      <th style="width: 30%;"><strong>Características</strong></th>
+      <th><strong>Análisis en Empresas del Segmento</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f9f9f9;">
+      <td colspan="2"><strong>OBJETIVAS</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Tecnología actual utilizada</strong></td>
+      <td>
+        Todas las empresas entrevistadas utilizan tecnologías básicas como GPS y termómetros manuales o digitales para el monitoreo de condiciones durante el transporte. Ninguna cuenta con un sistema que integre todos estos datos en tiempo real, ni alertas automáticas. Esto representa una importante limitación en la prevención de daños a productos altamente perecibles.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Impacto económico de la falta de monitoreo</strong></td>
+      <td>
+        El 100% de las empresas ha experimentado pérdidas significativas por no detectar a tiempo variaciones de temperatura o fallas en la cadena de frío. Estas pérdidas se traducen en productos deshidratados, dañados o inadecuados para la venta/exportación, generando costos adicionales, descuentos comerciales y tensiones con los compradores.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Volumen y frecuencia de operaciones</strong></td>
+      <td>
+        El 75% de las empresas realiza envíos diarios o frecuentes (especialmente durante campañas agrícolas). Esto implica un volumen operativo alto donde los errores se traducen en impactos acumulativos. El 25% restante opera con menor frecuencia, pero igualmente transporta productos sensibles a cambios de temperatura y humedad.
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td colspan="2"><strong>SUBJETIVAS</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Percepción del monitoreo en tiempo real</strong></td>
+      <td>
+        Los entrevistados consideran que contar con una plataforma de monitoreo en tiempo real no solo mejoraría la eficiencia operativa, sino que sería un factor clave para elevar los estándares de calidad, profesionalizar el servicio logístico y generar ventajas competitivas frente a operadores tradicionales.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Problemáticas logísticas más comunes</strong></td>
+      <td>
+        Entre los principales problemas destacan: fallos en refrigeración no detectados, apertura indebida de puertas, desvíos de ruta, falta de trazabilidad y reclamos por calidad de producto. Esto demuestra una necesidad urgente de control continuo y automatizado durante el trayecto.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Interés en soluciones como AgroRoute</strong></td>
+      <td>
+        El 100% mostró interés activo en plataformas como AgroRoute, señalando que valoran la posibilidad de acceder a:
+        <ul>
+          <li>Visualización en tiempo real desde móvil o laptop</li>
+          <li>Alertas automáticas por SMS o notificación de app</li>
+          <li>Reportes históricos descargables y configurables</li>
+          <li>Control de apertura de puertas y temperatura por tramo</li>
+          <li>GPS con trazabilidad de ruta y geofencing</li>
+        </ul>
+        Las empresas estarían dispuestas a implementar pilotos o pruebas si la solución demuestra eficacia en condiciones reales de operación.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Oportunidad para soluciones tecnológicas</strong></td>
+      <td>
+        Existe una brecha tecnológica clara en el segmento, donde el nivel operativo ha crecido pero la infraestructura digital aún es limitada. AgroRoute se posiciona como una solución estratégica con alto potencial de adopción, ya que responde a problemáticas reales y urgentes del mercado logístico agroindustrial.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
