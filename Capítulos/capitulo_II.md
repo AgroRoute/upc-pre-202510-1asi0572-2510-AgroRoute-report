@@ -233,9 +233,9 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
   <tbody>
     <tr>
       <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <img src="https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/Entrevista_Damaris.png?raw=true" width="750" height="200" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+          <strong>URL de entrevista: </strong> <a href="https://drive.google.com/file/d/13ChK39Gxn9sRN_ES7myUTb2HeNy1N6LU/view?usp=sharing">[Entrevista]</a>
         </p>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
           <strong>Descripción:</strong>
         </p>
         <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
+          En la entrevista, Abigail, Jefa de Logística de Transportes SAJAI TEC, compartió su experiencia en el transporte de productos perecibles, como frutas y productos lácteos, y los retos que enfrenta al garantizar la calidad durante el traslado. Comentó sobre la importancia de monitorear la temperatura y la humedad, pero señaló que actualmente utilizan herramientas limitadas como termómetros manuales y GPS, lo que no les permite un monitoreo en tiempo real. Abigail también mencionó que han tenido pérdidas significativas debido a condiciones inadecuadas durante el trayecto. Mostró interés en una plataforma que permita recibir alertas automáticas y ofrecer reportes detallados para mejorar la trazabilidad y reducir las pérdidas. A lo largo de la conversación, se le presentó AgroRoute, una solución tecnológica diseñada para monitorear en tiempo real las condiciones de transporte y ofrecer alertas y reportes que optimicen el proceso, garantizando la calidad de los productos perecibles.
         </p>
       </td>
     </tr>
@@ -366,7 +366,7 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 
 ### 2.3.3. User Journey Mapping
 
-![UserJourneyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/Map.png?raw=true)
+![UserJourneyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/User%20Journey%20Map.png?raw=true)
 
 ### 2.3.4. Empathy Mapping
 
