@@ -15,7 +15,7 @@
   - [1.2.2.3. Lean UX Hypothesis Statements](/Capítulos/Capítulo_I.md#1.2.2.3-Lean-UX-Hypothesis-Statements)  
   - [1.2.2.4. Lean UX Canvas](/Capítulos/Capítulo_I.md#1.2.2.4-Lean-UX-Canvas)
 
-### 1.3. [Segmentos objetivo](/Capítulos/Capítulo_I_Introducción.md#1.1.2-Perfiles-de-los-integrantes-del-equipo)
+### 1.3. [Segmentos objetivo](/Capítulos/Capítulo_I.md#1.1.2-Perfiles-de-los-integrantes-del-equipo)
  
  ## Capítulo II: Requirements Elicitation & Analysis
 
