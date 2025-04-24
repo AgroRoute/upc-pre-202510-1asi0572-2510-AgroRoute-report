@@ -30,100 +30,95 @@ En esta sección, se realiza un análisis detallado de los principales competido
   <tr>
     <td colspan="4">El objetivo del siguiente análisis competitivo es identificar las fortalezas y debilidades de AgroRoute en relación con sus competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.</td>
   </tr>
-  <tr>
+ <tr>
     <td colspan="2">Competidores</td>
     <td>AgroRoute</td>
     <td>Sensitech</td>
-    <td>SmartAgroTrack</td>
-    <td>ColdChain Control</td>
+    <td>Tive</td>
+    <td>Roambee</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
     <td>Plataforma IoT para transporte de productos orgánicos con monitoreo ambiental en tiempo real</td>
     <td>Empresa global que ofrece soluciones de monitoreo para cadenas de frío.</td>
-    <td>Sistema de rastreo agrícola basado en sensores IoT.</td>
-    <td>Software de monitoreo para transporte de alimentos.</td>
+    <td>Solución de rastreo en tiempo real para cadenas de frío y transporte farmacéutico.</td>
+    <td>Plataforma integral de visibilidad de activos con sensores Bee y reportes inteligentes.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva ¿Qué valor ofrece al cliente?</td>
     <td>Enfoque exclusivo en productos orgánicos, con predicción inteligente de tiempos de entrega (ETA) y control ambiental completo.</td>
     <td>Alta reputación y robustez tecnológica, soporte global.</td>
-    <td>Fácil de implementar, pensada para entornos rurales con baja conectividad.</td>
-    <td>Integración con plataformas logísticas y cumplimiento normativo en sectores regulados.</td>
+    <td>Alta precisión y cumplimiento normativo.</td>
+    <td>Visibilidad en tiempo real y control global de activos.</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil de marketing</td>
     <td>Mercado objetivo</td>
     <td>Empresas transportistas de productos perecibles</td>
     <td>Grandes industrias: farmacéutica, agroalimentaria y logística.</td>
-    <td>Agricultores medianos y pequeños.</td>
-    <td>Empresas logísticas que requieren trazabilidad certificada.</td>
+    <td>Industria farmacéutica y cadena de frío.</td>
+    <td>Empresas logísticas, transporte seguro, activos móviles.</td>
   </tr>
   <tr>
     <td>Estrategias de marketing</td>
     <td>Publicidad en redes sociales.<br>Participación en ferias agrícolas, contacto con asociaciones de productores orgánicos, campañas educativas sobre trazabilidad.</td>
     <td>Publicidad B2B tradicional, posicionamiento de marca fuerte.</td>
-    <td>Marketing digital en redes rurales, demo gratuita.</td>
-    <td>Asociaciones con operadores logísticos grandes, convenios normativos.</td>
+    <td>Corporativo B2B, marketing especializado.</td>
+    <td>Asociaciones logísticas, marketing institucional.</td>
   </tr>
   <tr>
-    <td rowspan="4">Perfil del producto</td>
+    <td rowspan="3">Perfil del producto</td>
     <td>Productos y servicios</td>
     <td>Sensores IoT integrados, plataforma web y móvil, informes automatizados, ETA, alertas en tiempo real.</td>
     <td>AData loggers, sensores avanzados, informes normativos.</td>
-    <td>App móvil con sensores GPS, monitoreo local.</td>
-    <td>Aplicación web con visualización de temperatura, geolocalización básica.</td>
+    <td>Trackers inteligentes conectados a plataforma central.</td>
+    <td>Dispositivos Bee + software analítico en la nube.</td>
   </tr>
   <tr>
     <td>Precios y costos</td>
     <td>Modelo flexible por viaje o por suscripción mensual. Bajo costo inicial.</td>
     <td>Costoso, dirigido a grandes corporaciones.</td>
-    <td>Económico, adaptable a pequeños productores.</td>
-    <td>Moderado, pago por volumen de envíos.</td>
+    <td>Pago por dispositivo con suscripción.</td>
+    <td>Roambee ofrece un modelo de suscripción mensual que incluye dispositivos Bee</td>
   </tr>
   <tr>
     <td>Canales de distribución</td>
     <td>Web y app móvil, integrable con sistemas de flotas.</td>
     <td>Distribuidores globales, canales corporativos.</td>
-    <td>Tienda online y distribuidores locales.</td>
-    <td>Web y partners logísticos.</td>
+    <td>App y plataforma web con integración ERP.</td>
+    <td>Plataforma web y móvil, API abierta.</td>
   </tr>
   <tr>
-    <td>Tecnologías usadas</td>
-    <td>ASP.NET, .NET, Vue.js Typescript flavoured, HTTPS</td>
-    <td>Kotlin</td>
-    <td>Kotlin/Swift</td>
-    <td>Angular, React, HTML/CSS/JS</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Análisis SWOT</td>
+    <td rowspan="4"> Análisis SWOT</td>
     <td>Fortalezas</td>
-    <td>AgroRoute se destaca por estar específicamente orientado al transporte de productos orgánicos, integrando sensores IoT que monitorean temperatura, humedad, ubicación y tiempo estimado de llegada, todo a través de una plataforma intuitiva.</td>
+    <td>AgroRoute se destaca por estar específicamente orientado al transporte de productos orgánicos, integrando sensores IoT que monitorean temperatura, humedad, ubicación y tiempo estimado de llegada, todo a través de una plataforma 
+        intuitiva.</td>
     <td>Sensitech cuenta con una sólida reputación global, ofreciendo soluciones robustas y certificadas para el monitoreo de cadenas de frío, lo cual les permite ser referentes en industrias reguladas como la farmacéutica y alimentaria.</td>
-    <td>SmartAgroTrack es una solución económica y fácil de implementar, pensada para pequeños productores agrícolas que necesitan una herramienta básica de localización y monitoreo.</td>
-    <td>ColdChain Monitor se especializa en cadenas de frío, ofreciendo una plataforma confiable que se integra con sistemas logísticos existentes y genera reportes automáticos para cumplimiento normativo.</td>
+    <td>Alta precisión en rastreo y cumplimiento normativo global (FDA, GDP). Solución confiable para sectores críticos como pharma y cadena de frío. Plataforma robusta con múltiples métricas.</td>
+    <td>Solución completa con sensores Bee, plataforma analítica, soporte y visibilidad global. Ofrece control total de activos móviles y fijos en tiempo real. Alto nivel de personalización.</td>
   </tr>
   <tr>
     <td>Debilidades</td>
     <td>Al ser una solución emergente, AgroRoute aún no tiene una presencia fuerte en el mercado y depende de la instalación de hardware específico, lo que puede ser una barrera de entrada para algunos usuarios.</td>
     <td>Su alto costo y complejidad de uso hacen que no sea accesible para pequeños productores o empresas con bajo presupuesto, lo cual limita su alcance en mercados rurales o emergentes.</td>
-    <td>Su limitación tecnológica se manifiesta en la falta de sensores avanzados, ausencia de ETA predictivo y baja precisión, lo cual limita su utilidad en contextos más exigentes.</td>
-    <td>Su enfoque exclusivo en productos refrigerados limita su capacidad de adaptarse a otros nichos como el de productos orgánicos frescos que no requieren frío constante.</td>
+    <td>Costosa para pequeños y medianos negocios. Requiere inversión inicial en hardware y suscripción. No está adaptada a necesidades específicas del agro.</td>
+    <td>Su sistema puede ser complejo y costoso para usuarios no corporativos. No está pensado para productores pequeños o locales. La implementación requiere capacitación.</td>
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td>Existen crecientes demandas de trazabilidad y sostenibilidad en la cadena de suministro de alimentos orgánicos, lo cual posiciona a AgroRoute como una solución adaptable a normativas futuras y alianzas estratégicas con cooperativas agrícolas.</td>
+    <td>Existen crecientes demandas de trazabilidad y sostenibilidad en la cadena de suministro de alimentos orgánicos, lo cual posiciona a AgroRoute como una solución adaptable a normativas futuras y alianzas estratégicas con 
+        cooperativas agrícolas.</td>
     <td>Tiene oportunidades de expandirse a sectores tecnológicos avanzados mediante la integración de inteligencia artificial, blockchain y normativas más estrictas sobre calidad.</td>
-    <td>Su enfoque rural le permite ingresar a comunidades con baja digitalización, y podría escalar mediante programas de inclusión tecnológica y subsidios gubernamentales.</td>
-    <td>El aumento del e-commerce de alimentos y la necesidad de trazabilidad precisa en sectores como el farmacéutico le abren la puerta a una mayor penetración en el mercado.</td>
+    <td>Expansión en industrias reguladas que requieren auditoría de transporte. Mayor conciencia sobre la importancia de la visibilidad logística. Integración con sistemas ERP.</td>
+    <td>Crecimiento del interés en tecnologías como blockchain e IA aplicadas al transporte. Puede expandirse a nuevos sectores y geografías mediante integraciones API.</td>
   </tr>
   <tr>
     <td>Amenazas</td>
     <td>Grandes empresas tecnológicas o competidores consolidados podrían ingresar al mismo nicho con mayor inversión, lo cual representa una amenaza directa para la escalabilidad y posicionamiento de AgroRoute.</td>
     <td>Las soluciones más ágiles, económicas y personalizables desarrolladas por startups innovadoras podrían desplazar a Sensitech en segmentos de mercado menos industrializados.</td>
-    <td>Nuevas soluciones más completas y de costo similar podrían reemplazarla rápidamente si no evoluciona en funcionalidad y soporte técnico.</td>
-    <td>La evolución de tecnologías más inteligentes y multifuncionales podría dejar obsoletas sus funciones si no incorpora mejoras predictivas como el cálculo de ETA y análisis ambiental integrado.</td>
+    <td>Startups ágiles con modelos low-cost pueden capturar mercados emergentes. Las barreras de entrada tecnológicas están bajando. Exceso de opciones puede fragmentar su cuota de mercado.</td>
+    <td>Competidores especializados en nichos concretos podrían quitarle relevancia. El costo de operación puede limitar su escalabilidad en mercados en desarrollo. Hay presión por simplificar.</td>
   </tr>
 </tbody>
 </table>
@@ -349,7 +344,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
-#### Segmento Objetivo: Remitentes 
+#### Segmento Objetivo: Empresas transportistas de productos perecibles
 
 El diagrama de la user persona Luis Gómez proporciona una visión clara y detallada de sus características, metas, motivaciones y desafíos como gerente de operaciones logísticas. Esta representación permite una comprensión profunda de sus necesidades, facilitando la adaptación de estrategias y servicios de AgroRoute para maximizar su satisfacción como representante clave de empresas transportistas de productos perecibles.<br><br>  
 [![Luis-G-mez.png](https://i.postimg.cc/dVVFvtJL/Luis-G-mez.png)](https://postimg.cc/WhCCwVFv)
