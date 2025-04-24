@@ -364,6 +364,38 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 | Descargar historial de condiciones del transporte     | A veces        | Media           |
 | Compatible con dispositivos móviles y GPS del camión  | Siempre        | Alta            |
 
+### 2.3.3. User Journey Mapping
+
+![UserJourneyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/Map.png?raw=true)
+
+### 2.3.4. Empathy Mapping
+
+![EmpathyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/Emphaty.png?raw=true)
+
+### 2.3.5. As-is Scenario Mapping
+
+![Asis](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/asis.png?raw=true)
+
+## 2.4. Ubiquitous Language
+
+
+| *Término*               | *Definición*                                                                                                 |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| *Sistema IoT de Monitoreo* (IoT Monitoring System)  | Plataforma que permite la captura, procesamiento y análisis de datos en tiempo real provenientes de sensores instalados en los vehículos de transporte. |
+| *Sensores* (Sensors)              | Dispositivos instalados en los vehículos y/o contenedores que miden variables como temperatura, humedad y ubicación de la carga, enviando estos datos a la plataforma IoT. |
+| *Paquete Perecible* (Perishable Package) | Cualquier tipo de carga que es sensible a condiciones ambientales como temperatura, humedad, etc., y que puede deteriorarse si no se transporta adecuadamente. |
+| *Transportista* (Carrier)        | Persona o empresa responsable de mover el paquete desde un origen hasta un destino, utilizando vehículos que pueden estar equipados con sensores IoT. |
+| *Condiciones Críticas* (Critical Conditions)      | Variables (como temperatura y humedad) que deben mantenerse dentro de ciertos parámetros para asegurar la calidad y seguridad del paquete perecible. |
+| *Anomalía* (Anomaly)             | Cualquier evento que cause que las condiciones críticas se salgan de los parámetros establecidos, como un aumento de temperatura o una baja de humedad. |
+| *Alerta* (Alert)                 | Notificación enviada automáticamente por la plataforma IoT cuando se detecta una anomalía, informando a los responsables de la carga (empresa de transporte, operadores, etc.). |
+| *Plataforma IoT* (IoT Platform)  | El software que procesa, analiza y visualiza los datos enviados por los sensores. Permite gestionar las alertas y el monitoreo en tiempo real. |
+| *Reacción Correctiva* (Corrective Action) | Acciones tomadas por el transportista o equipo logístico para corregir una anomalía, como ajustar la temperatura o cambiar la ruta del transporte. |
+| *Rango de Temperatura/Humedad* (Temperature/Humidity Range) | Parámetros específicos (como 4-8°C para temperatura) dentro de los cuales los productos perecibles deben mantenerse para evitar daños. |
+| *Ruta de Transporte* (Transport Route)          | El trayecto que sigue el vehículo de transporte para entregar el paquete, especificado de antemano por la empresa de logística. |
+| *Unidad de Frío* (Refrigeration Unit)            | Sistema de refrigeración en el vehículo o contenedor que asegura que la carga perecible se mantenga en las condiciones óptimas durante el transporte. |
+| *Empresa de Transporte* (Transport Company)     | Compañía encargada de gestionar y realizar el transporte de los productos perecibles, incluyendo la planificación de la ruta, la asignación de vehículos y la reacción ante alertas. |
+| *Responsable Logístico* (Logistics Manager)      | Persona encargada de coordinar el transporte de la carga, verificar las alertas del sistema y tomar decisiones relacionadas con el manejo de las anomalías. |
+| *Desviación de Ruta* (Route Deviation)           | Cambio de la ruta originalmente planificada para evitar una anomalía o condición que pueda poner en riesgo la carga (por ejemplo, un accidente o un desvío por mal tiempo). |
 
 
 
