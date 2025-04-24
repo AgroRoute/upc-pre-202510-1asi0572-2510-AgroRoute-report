@@ -261,9 +261,9 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
   <tbody>
     <tr>
       <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <img src="https://i.postimg.cc/DZTW23jc/branco.jpg" width="750" height="210" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+          <strong>URL de entrevista:</strong> <a href="https://drive.google.com/file/d/1H2mDrQzSwfKcLssc8RufuTZDKpPelX56/view?usp=sharing">[Enlace aquí]</a>
         </p>
       </td>
     </tr>
@@ -273,7 +273,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
           <strong>Descripción:</strong>
         </p>
         <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
+          La entrevista fue realizada a Deyvis Ibarra Gutiérrez, operario de tráileres en la empresa Trama, ubicada en Lima, dedicada al transporte interprovincial diario de productos perecibles como frutas, verduras, pescados, lácteos y medicamentos. Actualmente utilizan termómetros digitales para el control de temperatura y algunos vehículos cuentan con GPS; sin embargo, Deyvis señaló que han enfrentado problemas por no detectar a tiempo fallas en el sistema de refrigeración, lo que ha ocasionado pérdidas económicas, reclamos y afectación en la reputación de la empresa. Por ello, considera fundamental contar con un sistema que brinde información en tiempo real sobre temperatura, humedad y ubicación, lo cual les permitiría actuar de inmediato ante cualquier anomalía. Además, mostró interés en funcionalidades como alertas instantáneas (incluso por SMS), reportes históricos descargables, monitoreo de rutas vía GPS, control de apertura de puertas y una plataforma accesible desde dispositivos web y móviles, destacando que una solución tecnológica de este tipo ayudaría a mejorar la eficiencia y seguridad en el transporte de productos perecibles.
         </p>
       </td>
     </tr>
