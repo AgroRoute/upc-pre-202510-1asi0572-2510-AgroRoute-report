@@ -22,14 +22,86 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   <tbody>
     <tr>
       <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-      <td></td>
+      <td>
+        <div>
+          <b>Mariela Martinez Carbajal</b> <br>
+          <i>TB1</i> <br>
+          Colaboré en la revisión de entrevistas dirigidas al segmento Transportista, garantizando una adecuada estructuración de la información y apoyando en la edición de los documentos correspondientes.
+        </div>
+        <hr>
+        <div>
+          <b>Jenny Balceda Calixto</b> <br>
+          <i>TB1</i> <br>
+          Colaboré en la elaboración de los materiales UX y apoyando en la edición de los documentos correspondientes.
+        </div>
+       <hr>
+        <div>
+          <b>Diego De la Cruz Arellano</b> <br>
+          <i>TB1</i> <br>
+          Colaboré en el diseño de la Arquitectura y en los Diagramas, así como en su correspondiente documentación.
+        </div>
+       <hr>
+        <div>
+          <b>Nombre del integrante</b> <br>
+          <i>TB1</i> <br>
+          el aporte referente al student outcome
+        </div>
+       <hr>
+        <div>
+          <b>Nombre del integrante</b> <br>
+          <i>TB1</i> <br>
+          el aporte referente al student outcome
+        </div>
+       <hr>
+        <div>
+          <b>Nombre del integrante</b> <br>
+          <i>TB1</i> <br>
+          el aporte referente al student outcome
+        </div>
+      </td>
       <td></td>
     </tr>
-    <tr>
+   <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
+      <td>
+        <div>
+          <b>Mariela Martinez Carbajal</b> <br>
+          <i>TB1</i> <br>
+          Promoví la ejecución estratégica de entrevistas, incentivando la participación activa del equipo y asegurando un enfoque colaborativo en su desarrollo.
+        </div>
+        <hr>
+        <div>
+          <b>Jenny Balceda Calixto</b> <br>
+          <i>TB1</i> <br>
+          Promoví la colaboración para la investigación de la problemática, la UX y la segmentación del público objetivo, asegurando así un enfoque en el que todos colaboremos.
+        </div>
+       <hr>
+        <div>
+          <b>Diego De la Cruz Arellano</b> <br>
+          <i>TB1</i> <br>
+          Promoví la colaboración de ideas en lo que refiere a la arquitectura y el diseño de los diagramas para la maquetación del backedn de la aplicación.
+        </div>
+       <hr>
+        <div>
+          <b>Nombre del integrante</b> <br>
+          <i>TB1</i> <br>
+          el aporte referente al student outcome
+        </div>
+       <hr>
+        <div>
+          <b>Nombre del integrante</b> <br>
+          <i>TB1</i> <br>
+          el aporte referente al student outcome
+        </div>
+       <hr>
+        <div>
+          <b>Nombre del integrante</b> <br>
+          <i>TB1</i> <br>
+          el aporte referente al student outcome
+        </div>
+      </td>
       <td></td>
-      <td></td>
-    </tr>
+   </tr>
   </tbody>
 </table>
 
