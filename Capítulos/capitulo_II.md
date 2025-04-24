@@ -351,8 +351,6 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 
 ### 2.3.2. User Task Matrix
 
-**Cuadro Task Matrix de ambos usuarios**
-
 **Cuadro Task Matrix del usuario objetivo: Empresas transportistas de productos perecibles**
 
 | **User Task**                                         | **Frecuencia** | **Importancia** |
