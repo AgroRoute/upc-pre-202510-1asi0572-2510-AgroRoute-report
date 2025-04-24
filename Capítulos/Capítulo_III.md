@@ -45,6 +45,13 @@ A continuación, se presenta las user stories en el formato de ‘Como-quiero-pa
 | US-019            | Verificación de la integridad del sensor   | Como **administrador de la empresa**, quiero verificar la integridad de los sensores para asegurarme de que los datos que recibo son fiables.                              | **Escenario**: El sistema verifica los sensores. <br> **Dado que** el sistema realiza una verificación, **cuando** se realiza la prueba, **entonces** se informa sobre la condición de cada sensor.                     | 1           |
 | US-020            | Control de temperatura en diferentes puntos | Como **empresa de transporte**, quiero poder controlar la temperatura de la carga en diferentes puntos del vehículo para asegurar que el paquete esté siempre en condiciones óptimas. | **Escenario**: El sistema recibe los datos de temperatura de distintos puntos del vehículo. <br> **Dado que** el sistema tiene múltiples sensores, **cuando** se actualizan, **entonces** se muestra la lectura completa. | 1           |
 
+## 3.3 Impact Mapping
+La técnica de Impact Mapping permite vincular los objetivos del negocio con las soluciones técnicas dentro de un proyecto IoT. A través de este enfoque, se identifican los actores clave, como los administradores de empresa, y se analiza cómo sus comportamientos influyen en el logro de las metas comerciales. Así, se garantiza que las funcionalidades desarrolladas aporten valor real y estén alineadas con los resultados deseados. 
+
+<i>Impact Mapping Administrador de Empresa</i>
+![Sticky Note Packs](/resources/images/capitulo_4/Impact-Mapping.png)
+
+
 
 ## 3.4 Product Backlog
 
