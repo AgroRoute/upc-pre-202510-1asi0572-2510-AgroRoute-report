@@ -73,4 +73,12 @@ Después de completado el transporte, este contexto permite visualizar lo que oc
 
 ![df](/resources/images/capitulo_4/5_Service_Tracking_and_Reporting_Context.png)
 
+
+## 4.1.2 Context Mapping 
+
+Una vez identificados nuestros Bounded Contexts, se procedió a definir las relaciones estructurales entre ellos. Para ello, se consideraron posibles diseños para el Context Mapping, el cual se desarrolló siguiendo los patrones de relaciones entre Bounded Contexts establecidos en Domain-Driven Design. La herramienta online Miro fue utilizada para crear el Context Mapping que se muestra en la siguiente imagen:
+
+
+![df](/resources/images/capitulo_4/Context-Mapping.png)  
 ---
+
