@@ -2,30 +2,34 @@
 Con el Strategic-Level Domain-Driven Design, establecemos los límites y las interacciones entre los distintos dominios del negocio en nuestro proyecto IoT. Aplicamos esta estrategia para identificar los bounded contexts, lo que nos ayuda a segmentar el sistema en áreas de responsabilidad definidas, promoviendo un diseño modular y escalable.
 
 
+
 ## 4.1.1 EventStorming
     
 Hemos empleado EventStorming como una metodología colaborativa para identificar los eventos esenciales dentro del sistema IoT. Este enfoque nos permite mapear eventos relevantes, como alertas generadas o cambios en el estado de los sensores, facilitando una   mejor comprensión del flujo del sistema y una adecuada modelización del dominio. 
 
 <i>Step 1: Unstructured Exploration</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Unstructured_Exploration.png)
 
-
 <i>Step 2: Collect Domain Events</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Collect_Domain_Events.png)
  
  <i>Step 3: Process Modelling</i>
+ 
 ![Sticky Note Packs](/resources/images/capitulo_4/Process_Modelling1.png) 
 ![Sticky Note Packs](/resources/images/capitulo_4/Process_Modelling2.png) 
 ![Sticky Note Packs](/resources/images/capitulo_4/Process_Modelling3.png) 
 
 <i>Step 4: Aggregates</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Aggregates.png)
 
- 
 <i>Step 5: Bounded Context</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Bounded_Context.png)
 
- 
+
 
 ## 4.1.1.2 Domain Message Flows Modeling
     
@@ -75,6 +79,32 @@ Después de completado el transporte, este contexto permite visualizar lo que oc
 
 
 ---
+
+### 4.1.3. Software Architecture
+#### 4.1.3.1. Software Architecture System Landscape Diagram
+
+A continuación se presenta el diagrama de arquitectura de software a nivel general de los sistemas.
+
+![df](/resources/images/capitulo_4/4.1.3.1-System-Landscape-Diagram.png)
+
+#### 4.1.3.2. Software Architecture Context Level Diagrams
+
+A continuación se presenta el diagrama de arquitectura de software a nivel de contexto.
+
+![df](/resources/images/capitulo_4/4.1.3.2-System-Context-Diagram.png)
+
+#### 4.1.3.3. Software Architecture Container Level Diagrams
+
+A continuación se presenta el diagrama de arquitectura de software a nivel de contenedores.
+
+![df](/resources/images/capitulo_4/4.1.3.3-Container-Diagram.png)
+
+
+#### 4.1.3.4. Software Architecture Deployment Diagrams
+
+A continuación se presenta el diagrama de arquitectura de software a nivel de despliegue.
+
+![df](/resources/images/capitulo_4/4.1.3.4-Deployment-Diagram.png)
 
 ## 4.2 Tactical-Level Domain-Driven Design
 
