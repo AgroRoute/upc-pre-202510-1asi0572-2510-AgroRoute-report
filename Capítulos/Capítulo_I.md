@@ -64,6 +64,7 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
+
         <img src="https://media.licdn.com/dms/image/v2/C4E03AQH7m-OmYL6RJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1626725239533?e=1750896000&v=beta&t=q--7_tjnFLaIlKPcvIqU1Taj4HAO5OkWuhhd82T18xY" width="150" height="100" alt="Integrante 4">
       </td>
       <td>
@@ -86,12 +87,12 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
-        <img src="" width="150" height="100" alt="Integrante 6">
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQGZJXskU5BBeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725883137395?e=1750896000&v=beta&t=8_A_jgeBnwfgj2PytfFTuUfzjai13J7aqMqYsthGI_o" width="150" height="100" alt="Integrante 6">
       </td>
       <td>
         <p style="text-align: justify;">
-          <strong>Apellidos y Nombres</strong><br>
-          Descripción
+          <strong>Villegas Peralta Branco Alberto</strong><br>
+          Estudiante del décimo ciclo de la carrera de Ingeniería de Software. Me considero una persona entusiasta y autodidacta, siempre dispuesto a aprender y asumir nuevos retos que me permitan seguir creciendo profesionalmente.
         </p>
       </td>
     </tr>
