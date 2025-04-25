@@ -42,9 +42,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         </div>
        <hr>
         <div>
-          <b>Nombre del integrante</b> <br>
+          <b>Tasayco Vilcamiza, Damaris</b> <br>
           <i>TB1</i> <br>
-          el aporte referente al student outcome
+          Colaboré en la elaboración de los puntos 2.3.3 hasta el punto 3.2 de las User Stories
         </div>
        <hr>
         <div>
@@ -83,9 +83,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         </div>
        <hr>
         <div>
-          <b>Nombre del integrante</b> <br>
+          <b>Tasayco Vilcamiza, Damaris</b> <br>
           <i>TB1</i> <br>
-          el aporte referente al student outcome
+          Promoví un entorno colaborativo e inclusivo mediante la elaboración de User Stories, facilitando la definición de metas, la planificación de tareas y el cumplimiento de objetivos del equipo.
         </div>
        <hr>
         <div>

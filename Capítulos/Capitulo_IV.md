@@ -44,6 +44,7 @@ Después de completado el transporte, este contexto permite visualizar lo que oc
 
 ![df](/resources/images/capitulo_4/5_Service_Tracking_and_Reporting_Context.png)
 
+
 ---
 
 ## 4.2 Tactical-Level Domain-Driven Design
@@ -220,5 +221,6 @@ Proporciona dashboards, mapas y generación de reportes históricos y en tiempo 
 ![cd](/resources/images/capitulo_4/BC_MonitoringReporting_DB.png)
 
 *Descripción:* `report_definition` guarda configuraciones y `vw_dashboard_metrics` acelera consultas de KPI.
+
 
 ---
