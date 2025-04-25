@@ -75,12 +75,12 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
-        <img src="" width="150" height="100" alt="Integrante 5">
+        <img src="https://github.com/LuceroObispoRios/Grupo1_WS52/blob/main/Informe/Imagenes/foto2.png?raw=true " width="150" height="100" alt="Integrante 5">
       </td>
       <td>
         <p style="text-align: justify;">
-          <strong>Apellidos y Nombres</strong><br>
-          Descripción
+          <strong>Tasayco Vilcamiza, Damaris</strong><br>
+          Estudiante de Ingeniería de Software, cursando el noveno ciclo, con interés en la programación de aplicaciones web. Puedo aportar habilidades técnicas en desarrollo web, así como experiencia en gestión de proyectos y trabajo colaborativo.
         </p>
       </td>
     </tr>
