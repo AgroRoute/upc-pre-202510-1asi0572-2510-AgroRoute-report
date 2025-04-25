@@ -3,7 +3,7 @@ Con el Strategic-Level Domain-Driven Design, establecemos los límites y las int
 
 
 
-## 4.1.1 EventStorming
+### 4.1.1 EventStorming
     
 Hemos empleado EventStorming como una metodología colaborativa para identificar los eventos esenciales dentro del sistema IoT. Este enfoque nos permite mapear eventos relevantes, como alertas generadas o cambios en el estado de los sensores, facilitando una   mejor comprensión del flujo del sistema y una adecuada modelización del dominio. 
 
@@ -31,22 +31,22 @@ Hemos empleado EventStorming como una metodología colaborativa para identificar
 
 
 
-## 4.1.1.2 Domain Message Flows Modeling
+#### 4.1.1.2 Domain Message Flows Modeling
     
-#### Evento: Transport Request
+##### Evento: Transport Request
 
 Este evento se dispara cuando un cliente inicia sesión y registra una solicitud de transporte en la plataforma AgroRoute. En esta etapa, se especifican los detalles críticos del envío: tipo de mercancía, peso, dimensiones y condiciones ambientales (temperatura, humedad).
 
 ![Sticky Note Packs](/resources/images/capitulo_4/Event_Transport_Petition.png)
 
-#### Evento: Transport Alert
+##### Evento: Transport Alert
 
 Durante el transporte, los sensores IoT monitorean temperatura, humedad y ubicación. Se envían alertas si se detectan desviaciones de los parámetros establecidos, garantizando que la mercancía se conserve en condiciones óptimas.
 
 ![Sticky Note Packs](/resources/images/capitulo_4/Event_Transport_Alert.png)
 
-## 4.1.1.3 Bounded Contexts Canvases
----
+#### 4.1.1.3 Bounded Contexts Canvases
+
 #### Client Management
 
 Este contexto se encarga de toda la interacción con los usuarios de la plataforma. Aquí ocurren procesos como el registro, inicio de sesión, autenticación y manejo de perfiles. Es esencial porque garantiza que solo personas autorizadas puedan acceder y gestionar información delicada del transporte. También permite diferenciar entre tipos de usuarios (como empresas o particulares), y sirve como punto de entrada para todo el ecosistema AgroRoute.
@@ -78,29 +78,35 @@ Después de completado el transporte, este contexto permite visualizar lo que oc
 ![df](/resources/images/capitulo_4/5_Service_Tracking_and_Reporting_Context.png)
 
 
+### 4.1.2 Context Mapping 
+
+Una vez identificados nuestros Bounded Contexts, se procedió a definir las relaciones estructurales entre ellos. Para ello, se consideraron posibles diseños para el Context Mapping, el cual se desarrolló siguiendo los patrones de relaciones entre Bounded Contexts establecidos en Domain-Driven Design. La herramienta online Miro fue utilizada para crear el Context Mapping que se muestra en la siguiente imagen:
+
+
+![df](/resources/images/capitulo_4/Context-Mapping.png)
 ---
 
-### 4.1.3. Software Architecture
-#### 4.1.3.1. Software Architecture System Landscape Diagram
+#### 4.1.3. Software Architecture
+##### 4.1.3.1. Software Architecture System Landscape Diagram
 
 A continuación se presenta el diagrama de arquitectura de software a nivel general de los sistemas.
 
 ![df](/resources/images/capitulo_4/4.1.3.1-System-Landscape-Diagram.png)
 
-#### 4.1.3.2. Software Architecture Context Level Diagrams
+##### 4.1.3.2. Software Architecture Context Level Diagrams
 
 A continuación se presenta el diagrama de arquitectura de software a nivel de contexto.
 
 ![df](/resources/images/capitulo_4/4.1.3.2-System-Context-Diagram.png)
 
-#### 4.1.3.3. Software Architecture Container Level Diagrams
+##### 4.1.3.3. Software Architecture Container Level Diagrams
 
 A continuación se presenta el diagrama de arquitectura de software a nivel de contenedores.
 
 ![df](/resources/images/capitulo_4/4.1.3.3-Container-Diagram.png)
 
 
-#### 4.1.3.4. Software Architecture Deployment Diagrams
+##### 4.1.3.4. Software Architecture Deployment Diagrams
 
 A continuación se presenta el diagrama de arquitectura de software a nivel de despliegue.
 
@@ -111,7 +117,7 @@ A continuación se presenta el diagrama de arquitectura de software a nivel de d
 A continuación se definen, para cada Bounded Context, las responsabilidades y la funcionalidad de sus capas, así como los fragmentos de código necesarios para generar los diagramas de componentes, de clases y de base de datos.
 
 
-### 4.2.1. Bounded Context: Device Management
+### 4.2.1. Bounded Context: Shipment 
 Se encarga de registrar, configurar y mantener el estado de los dispositivos IoT de la plataforma (sensores de temperatura/humedad y rastreadores GPS), así como de exponer su operativa básica.
 
 #### 4.2.1.1. Domain Layer
@@ -155,7 +161,7 @@ Contiene los mecanismos técnicos para respaldar los casos de uso:
 
 ---
 
-### 4.2.2. Bounded Context: Telemetry Ingestion
+### 4.2.2. Bounded Context: Carrier 
 Recibe, valida y normaliza en tiempo real los datos transmitidos por los dispositivos IoT.
 
 #### 4.2.2.1. Domain Layer
@@ -187,7 +193,7 @@ Recibe, valida y normaliza en tiempo real los datos transmitidos por los disposi
 
 ---
 
-### 4.2.3. Bounded Context: Anomaly Detection & Alerting
+### 4.2.3. Bounded Context: Tracking and Reporting
 Define políticas para evaluar lecturas y notificar a las empresas transportistas ante condiciones críticas.
 
 #### 4.2.3.1. Domain Layer
@@ -217,7 +223,7 @@ Define políticas para evaluar lecturas y notificar a las empresas transportista
 
 ---
 
-### 4.2.4. Bounded Context: User & Access Control
+### 4.2.4. Bounded Context: Client Management
 Administra la autenticación, autorización y perfiles de las empresas transportistas.
 
 #### 4.2.4.1. Domain Layer
@@ -249,7 +255,7 @@ Administra la autenticación, autorización y perfiles de las empresas transport
 
 ---
 
-### 4.2.5. Bounded Context: Monitoring & Reporting
+### 4.2.5. Bounded Context: Real Time Monitoring
 Proporciona dashboards, mapas y generación de reportes históricos y en tiempo real.
 
 #### 4.2.5.1. Domain Layer
