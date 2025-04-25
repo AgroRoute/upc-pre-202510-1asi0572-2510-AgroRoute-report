@@ -64,7 +64,6 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
-
         <img src="https://media.licdn.com/dms/image/v2/C4E03AQH7m-OmYL6RJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1626725239533?e=1750896000&v=beta&t=q--7_tjnFLaIlKPcvIqU1Taj4HAO5OkWuhhd82T18xY" width="150" height="100" alt="Integrante 4">
       </td>
       <td>
