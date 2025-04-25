@@ -54,9 +54,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         </div>
        <hr>
         <div>
-          <b>Nombre del integrante</b> <br>
+          <b>Branco Villegas Peralta</b> <br>
           <i>TB1</i> <br>
-          el aporte referente al student outcome
+          Elaboré y validé los diagramas de clases y de base de datos de todos los Bounded Contexts, asegurando su coherencia con DDD.
         </div>
       </td>
       <td></td>
@@ -95,9 +95,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         </div>
        <hr>
         <div>
-          <b>Nombre del integrante</b> <br>
+          <b>Branco Villegas Peralta</b> <br>
           <i>TB1</i> <br>
-          el aporte referente al student outcome
+          Promoví el desarrollo colaborativo de los diagramas de los Bounded Contexts usando PlantUML y Visual Paradigm Online.
         </div>
       </td>
       <td></td>
