@@ -29,6 +29,7 @@
 | Branco Alberto Villegas Peralta      | U20201C082   |
 | De la Cruz Arellano, Diego           | U20201C334   |
 | Martinez Carbajal, Mariela           | U20211C254   |
+|Pachas Chavez, Alejandro              | U201917598   |
 | Tasayco Vilcamiza, Damaris           | U202119605   |
  
 #### Abril,2025
