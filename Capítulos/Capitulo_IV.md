@@ -215,10 +215,13 @@ Define políticas para evaluar lecturas y notificar a las empresas transportista
 ![cd](/resources/images/capitulo_4/BC_AnomalyDetectionAlerting.png)
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
-![cd](/resources/images/capitulo_4/BC_AnomalyDetectionAlerting_Class.png)
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams 
+
+![cd](/resources/images/capitulo_4/BC_AnomalyDetectionAlerting_Class.png) 
+
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
-![cd](/resources/images/capitulo_4/BC_AnomalyDetectionAlerting_DB.png)
+![cd](/resources/images/capitulo_4/BC_AnomalyDetectionAlerting_DB.png)  
+
 *Descripción:* `alert` almacena eventos críticos; `alert_policy` define umbrales configurables.
 
 ---
