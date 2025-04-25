@@ -11,7 +11,6 @@ Hemos empleado EventStorming como una metodología colaborativa para identificar
 
 ![Sticky Note Packs](/resources/images/capitulo_4/Unstructured_Exploration.png)
 
-
 <i>Step 2: Collect Domain Events</i>
 
 ![Sticky Note Packs](/resources/images/capitulo_4/Collect_Domain_Events.png)
