@@ -53,23 +53,23 @@ El equipo de AgroRoute está formado por un equipo de desarrolladores que compar
     </tr>
     <tr>
       <td align="center">
+        <img src="https://raw.githubusercontent.com/DiegoDA04/images/refs/heads/main/profile_images/Foto_Diegociento.png" width="150" height="100" alt="Integrante 3">
+      </td>
+      <td>
+        <p style="text-align: justify;">
+          <strong>De La Cruz Arellano, Diego</strong><br>
+          Soy estudiante de Ingeniería de Software, de decimo ciclo, en la UPC.  Soy responsable, observador y perseverante. Tengo experiencia en los lenguajes de programación C++, Java y JavaScript. Me gusta diseñar y desarrollar las interfaces de usuario, por lo que tengo conocimientos en Frontend con el framework Angular, además del desarrollo del Backend con Springboot. Me considero una persona autodidacta que tiene la facilidad de aprender y adaptarse a nuevas tecnologías.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://media.licdn.com/dms/image/v2/C4E03AQH7m-OmYL6RJA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1626725239533?e=1750896000&v=beta&t=q--7_tjnFLaIlKPcvIqU1Taj4HAO5OkWuhhd82T18xY" width="150" height="100" alt="Integrante 3">
       </td>
       <td>
         <p style="text-align: justify;">
           <strong>Pachas Chavez, Alejandro</strong><br>
           Cuento con más de 3 años en el mundo de la programación, cuento con experiencia con tecnologías de desarrollo web y frameworks tales como Laravel, Nuxtjs y Tailwinds. Además, he emprendido pequeños proyectos por mi cuenta en el campo de la tecnología y actualmente trabajo como desarrollador full-stack.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="" width="150" height="100" alt="Integrante 4">
-      </td>
-      <td>
-        <p style="text-align: justify;">
-          <strong>Apellidos y Nombres</strong><br>
-          Descripción
         </p>
       </td>
     </tr>
