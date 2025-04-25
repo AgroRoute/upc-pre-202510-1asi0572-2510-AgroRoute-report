@@ -8,21 +8,26 @@ Con el Strategic-Level Domain-Driven Design, establecemos los límites y las int
 Hemos empleado EventStorming como una metodología colaborativa para identificar los eventos esenciales dentro del sistema IoT. Este enfoque nos permite mapear eventos relevantes, como alertas generadas o cambios en el estado de los sensores, facilitando una   mejor comprensión del flujo del sistema y una adecuada modelización del dominio. 
 
 <i>Step 1: Unstructured Exploration</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Unstructured_Exploration.png)
 
 
 <i>Step 2: Collect Domain Events</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Collect_Domain_Events.png)
  
  <i>Step 3: Process Modelling</i>
+ 
 ![Sticky Note Packs](/resources/images/capitulo_4/Process_Modelling1.png) 
 ![Sticky Note Packs](/resources/images/capitulo_4/Process_Modelling2.png) 
 ![Sticky Note Packs](/resources/images/capitulo_4/Process_Modelling3.png) 
 
 <i>Step 4: Aggregates</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Aggregates.png)
 
 <i>Step 5: Bounded Context</i>
+
 ![Sticky Note Packs](/resources/images/capitulo_4/Bounded_Context.png)
 
 
