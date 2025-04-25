@@ -164,7 +164,7 @@ Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana d
 Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute
 
 ### 2.2.2. Registro de entrevistas
-
+ - Segmento Objetivo: Empresas Transportistas de Productos Perecibles
 <table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
   <thead>
     <tr>
@@ -233,9 +233,9 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
   <tbody>
     <tr>
       <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <img src="https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/Entrevista_Damaris.png?raw=true" width="750" height="200" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+          <strong>URL de entrevista: </strong> <a href="https://drive.google.com/file/d/13ChK39Gxn9sRN_ES7myUTb2HeNy1N6LU/view?usp=sharing">[Entrevista]</a>
         </p>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
           <strong>Descripción:</strong>
         </p>
         <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
+          En la entrevista, Abigail, Jefa de Logística de Transportes SAJAI TEC, compartió su experiencia en el transporte de productos perecibles, como frutas y productos lácteos, y los retos que enfrenta al garantizar la calidad durante el traslado. Comentó sobre la importancia de monitorear la temperatura y la humedad, pero señaló que actualmente utilizan herramientas limitadas como termómetros manuales y GPS, lo que no les permite un monitoreo en tiempo real. Abigail también mencionó que han tenido pérdidas significativas debido a condiciones inadecuadas durante el trayecto. Mostró interés en una plataforma que permita recibir alertas automáticas y ofrecer reportes detallados para mejorar la trazabilidad y reducir las pérdidas. A lo largo de la conversación, se le presentó AgroRoute, una solución tecnológica diseñada para monitorear en tiempo real las condiciones de transporte y ofrecer alertas y reportes que optimicen el proceso, garantizando la calidad de los productos perecibles.
         </p>
       </td>
     </tr>
@@ -261,9 +261,9 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
   <tbody>
     <tr>
       <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
+        <img src="https://i.postimg.cc/DZTW23jc/branco.jpg" width="750" height="210" alt="Imagen de entrevista">
         <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
+          <strong>URL de entrevista:</strong> <a href="https://drive.google.com/file/d/1H2mDrQzSwfKcLssc8RufuTZDKpPelX56/view?usp=sharing">[Enlace aquí]</a>
         </p>
       </td>
     </tr>
@@ -273,73 +273,89 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
           <strong>Descripción:</strong>
         </p>
         <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
-  <thead>
-    <tr>
-      <th colspan="1">Entrevista N° 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
-        <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <p style="text-align: justify; margin: 10px 0;">
-          <strong>Descripción:</strong>
-        </p>
-        <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
+          La entrevista fue realizada a Deyvis Ibarra Gutiérrez, operario de tráileres en la empresa Trama, ubicada en Lima, dedicada al transporte interprovincial diario de productos perecibles como frutas, verduras, pescados, lácteos y medicamentos. Actualmente utilizan termómetros digitales para el control de temperatura y algunos vehículos cuentan con GPS; sin embargo, Deyvis señaló que han enfrentado problemas por no detectar a tiempo fallas en el sistema de refrigeración, lo que ha ocasionado pérdidas económicas, reclamos y afectación en la reputación de la empresa. Por ello, considera fundamental contar con un sistema que brinde información en tiempo real sobre temperatura, humedad y ubicación, lo cual les permitiría actuar de inmediato ante cualquier anomalía. Además, mostró interés en funcionalidades como alertas instantáneas (incluso por SMS), reportes históricos descargables, monitoreo de rutas vía GPS, control de apertura de puertas y una plataforma accesible desde dispositivos web y móviles, destacando que una solución tecnológica de este tipo ayudaría a mejorar la eficiencia y seguridad en el transporte de productos perecibles.
         </p>
       </td>
     </tr>
   </tbody>
 </table>
 
-<table align="justifyr" border="1" style="table-layout: fixed; width: 903px;">
-  <thead>
-    <tr>
-      <th colspan="1">Entrevista N° 6</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="" width="750" height="200" alt="Imagen de entrevista">
-        <p style="text-align: justify; margin: 10px 0;">
-          <strong>URL de entrevista:</strong> <a href="">[Enlace aquí]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <p style="text-align: justify; margin: 10px 0;">
-          <strong>Descripción:</strong>
-        </p>
-        <p style="text-align: justify;">
-          Aquí va la descripción de la entrevista.
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 
 
 
 ### 2.2.3. Análisis de entrevistas
+
+<h3>Análisis Detallado – Segmento Objetivo: Empresas Transportistas de Productos Perecibles</h3>
+
+<table border="1" cellpadding="12" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 15px;">
+  <thead style="background-color: #e0e0e0;">
+    <tr>
+      <th style="width: 30%;"><strong>Características</strong></th>
+      <th><strong>Análisis en Empresas del Segmento</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f9f9f9;">
+      <td colspan="2"><strong>OBJETIVAS</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Tecnología actual utilizada</strong></td>
+      <td>
+        Todas las empresas entrevistadas utilizan tecnologías básicas como GPS y termómetros manuales o digitales para el monitoreo de condiciones durante el transporte. Ninguna cuenta con un sistema que integre todos estos datos en tiempo real, ni alertas automáticas. Esto representa una importante limitación en la prevención de daños a productos altamente perecibles.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Impacto económico de la falta de monitoreo</strong></td>
+      <td>
+        El 100% de las empresas ha experimentado pérdidas significativas por no detectar a tiempo variaciones de temperatura o fallas en la cadena de frío. Estas pérdidas se traducen en productos deshidratados, dañados o inadecuados para la venta/exportación, generando costos adicionales, descuentos comerciales y tensiones con los compradores.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Volumen y frecuencia de operaciones</strong></td>
+      <td>
+        El 75% de las empresas realiza envíos diarios o frecuentes (especialmente durante campañas agrícolas). Esto implica un volumen operativo alto donde los errores se traducen en impactos acumulativos. El 25% restante opera con menor frecuencia, pero igualmente transporta productos sensibles a cambios de temperatura y humedad.
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td colspan="2"><strong>SUBJETIVAS</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Percepción del monitoreo en tiempo real</strong></td>
+      <td>
+        Los entrevistados consideran que contar con una plataforma de monitoreo en tiempo real no solo mejoraría la eficiencia operativa, sino que sería un factor clave para elevar los estándares de calidad, profesionalizar el servicio logístico y generar ventajas competitivas frente a operadores tradicionales.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Problemáticas logísticas más comunes</strong></td>
+      <td>
+        Entre los principales problemas destacan: fallos en refrigeración no detectados, apertura indebida de puertas, desvíos de ruta, falta de trazabilidad y reclamos por calidad de producto. Esto demuestra una necesidad urgente de control continuo y automatizado durante el trayecto.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Interés en soluciones como AgroRoute</strong></td>
+      <td>
+        El 100% mostró interés activo en plataformas como AgroRoute, señalando que valoran la posibilidad de acceder a:
+        <ul>
+          <li>Visualización en tiempo real desde móvil o laptop</li>
+          <li>Alertas automáticas por SMS o notificación de app</li>
+          <li>Reportes históricos descargables y configurables</li>
+          <li>Control de apertura de puertas y temperatura por tramo</li>
+          <li>GPS con trazabilidad de ruta y geofencing</li>
+        </ul>
+        Las empresas estarían dispuestas a implementar pilotos o pruebas si la solución demuestra eficacia en condiciones reales de operación.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Oportunidad para soluciones tecnológicas</strong></td>
+      <td>
+        Existe una brecha tecnológica clara en el segmento, donde el nivel operativo ha crecido pero la infraestructura digital aún es limitada. AgroRoute se posiciona como una solución estratégica con alto potencial de adopción, ya que responde a problemáticas reales y urgentes del mercado logístico agroindustrial.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
@@ -364,6 +380,38 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 | Descargar historial de condiciones del transporte     | A veces        | Media           |
 | Compatible con dispositivos móviles y GPS del camión  | Siempre        | Alta            |
 
+### 2.3.3. User Journey Mapping
+
+![UserJourneyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/User%20Journey%20Map.png?raw=true)
+
+### 2.3.4. Empathy Mapping
+
+![EmpathyMapping](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/Emphaty.png?raw=true)
+
+### 2.3.5. As-is Scenario Mapping
+
+![Asis](https://github.com/AgroRoute/upc-pre-202501-2939-2510-AgroRoute-report/blob/feature/capitulo-2-RequirementsElicitation&Analysis1/resources/images/asis.png?raw=true)
+
+## 2.4. Ubiquitous Language
+
+
+| *Término*               | *Definición*                                                                                                 |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| *Sistema IoT de Monitoreo* (IoT Monitoring System)  | Plataforma que permite la captura, procesamiento y análisis de datos en tiempo real provenientes de sensores instalados en los vehículos de transporte. |
+| *Sensores* (Sensors)              | Dispositivos instalados en los vehículos y/o contenedores que miden variables como temperatura, humedad y ubicación de la carga, enviando estos datos a la plataforma IoT. |
+| *Paquete Perecible* (Perishable Package) | Cualquier tipo de carga que es sensible a condiciones ambientales como temperatura, humedad, etc., y que puede deteriorarse si no se transporta adecuadamente. |
+| *Transportista* (Carrier)        | Persona o empresa responsable de mover el paquete desde un origen hasta un destino, utilizando vehículos que pueden estar equipados con sensores IoT. |
+| *Condiciones Críticas* (Critical Conditions)      | Variables (como temperatura y humedad) que deben mantenerse dentro de ciertos parámetros para asegurar la calidad y seguridad del paquete perecible. |
+| *Anomalía* (Anomaly)             | Cualquier evento que cause que las condiciones críticas se salgan de los parámetros establecidos, como un aumento de temperatura o una baja de humedad. |
+| *Alerta* (Alert)                 | Notificación enviada automáticamente por la plataforma IoT cuando se detecta una anomalía, informando a los responsables de la carga (empresa de transporte, operadores, etc.). |
+| *Plataforma IoT* (IoT Platform)  | El software que procesa, analiza y visualiza los datos enviados por los sensores. Permite gestionar las alertas y el monitoreo en tiempo real. |
+| *Reacción Correctiva* (Corrective Action) | Acciones tomadas por el transportista o equipo logístico para corregir una anomalía, como ajustar la temperatura o cambiar la ruta del transporte. |
+| *Rango de Temperatura/Humedad* (Temperature/Humidity Range) | Parámetros específicos (como 4-8°C para temperatura) dentro de los cuales los productos perecibles deben mantenerse para evitar daños. |
+| *Ruta de Transporte* (Transport Route)          | El trayecto que sigue el vehículo de transporte para entregar el paquete, especificado de antemano por la empresa de logística. |
+| *Unidad de Frío* (Refrigeration Unit)            | Sistema de refrigeración en el vehículo o contenedor que asegura que la carga perecible se mantenga en las condiciones óptimas durante el transporte. |
+| *Empresa de Transporte* (Transport Company)     | Compañía encargada de gestionar y realizar el transporte de los productos perecibles, incluyendo la planificación de la ruta, la asignación de vehículos y la reacción ante alertas. |
+| *Responsable Logístico* (Logistics Manager)      | Persona encargada de coordinar el transporte de la carga, verificar las alertas del sistema y tomar decisiones relacionadas con el manejo de las anomalías. |
+| *Desviación de Ruta* (Route Deviation)           | Cambio de la ruta originalmente planificada para evitar una anomalía o condición que pueda poner en riesgo la carga (por ejemplo, un accidente o un desvío por mal tiempo). |
 
 
 
