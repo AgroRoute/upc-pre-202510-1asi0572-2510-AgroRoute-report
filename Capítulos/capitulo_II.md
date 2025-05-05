@@ -340,8 +340,8 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
         <ul>
           <li>Visualización en tiempo real desde móvil o laptop</li>
           <li>Alertas automáticas por SMS o notificación de app</li>
-          <li>Reportes históricos descargables y configurables</li>
-          <li>Control de apertura de puertas y temperatura por tramo</li>
+          <li>Reportes históricos</li>
+          <li>Visualización de temperatura</li>
           <li>GPS con trazabilidad de ruta y geofencing</li>
         </ul>
         Las empresas estarían dispuestas a implementar pilotos o pruebas si la solución demuestra eficacia en condiciones reales de operación.
