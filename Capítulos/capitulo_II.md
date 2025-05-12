@@ -140,7 +140,9 @@ En este punto se realizaron entrevistas con representantes de empresas transport
 ### 2.2.1. Diseño de entrevistas
 
 #### Introducción/Presentación
-Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en tecnología IoT que permite supervisar, controlar y preservar la calidad de productos perecibles durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de este tipo de productos. Le agradeceríamos responder las siguientes preguntas.
+Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en tecnología IoT, diseñado para supervisar, controlar y preservar la calidad de productos perecibles durante su transporte interprovincial.
+Para asegurar que nuestra solución responda adecuadamente a las necesidades reales del sector, estamos realizando entrevistas a transportistas como usted. Nuestro objetivo es conocer a fondo su experiencia actual con el transporte de productos perecibles, los problemas que enfrentan, y las herramientas que utilizan, con el fin de validar y mejorar las funcionalidades del sistema que estamos desarrollando.
+Agradeceríamos mucho que pueda respondernos las siguientes preguntas, que nos ayudarán a diseñar una solución útil, práctica y relevante para su trabajo.
 
 ---
 
