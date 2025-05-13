@@ -159,8 +159,20 @@ El “navbar” permitirá al usuario poder navegar a cualquier sección de la p
 ## 5.4. Applications UX/UI Design
 ### 5.4.1. Applications Wireframes
 
+#### Aplicación web:
+<img src="https://i.postimg.cc/cJS3H7ph/wiref1.jpg">
+<img src="https://i.postimg.cc/135tYC1L/wiref2.jpg">
+<img src="https://i.postimg.cc/Ls9zbwVw/wiref3.jpg">
+<img src="https://i.postimg.cc/9F2zbTbN/wiref4.jpg">
+<img src="https://i.postimg.cc/FHcW4M3K/wiref5.jpg">
+
+#### Aplicación mobile:
+<img src="https://i.postimg.cc/QMvcdCDG/mobil1.jpg">
+<img src="https://i.postimg.cc/B6MsCLnR/mobil2.jpg">
+<img src="https://i.postimg.cc/BnH0VwvT/mobile3.jpg">
 
 ### 5.4.2. Applications Wireflow Diagrams
+
 ### 5.4.3. Applications Mockups
 ### 5.4.4. Applications User Flow Diagrams
 ## 5.5. Applications Prototyping
