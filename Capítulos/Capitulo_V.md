@@ -83,6 +83,8 @@ La tipografía para utilizar es importante para la aplicación móvil. El que co
 
 En AgroRoute, el sistema de organización visual se centrará en estructurar la información de manera clara y accesible. Utilizando principios como la proximidad, los datos relacionados, como las alertas de temperatura, humedad y ubicación de los productos, se agruparán de forma que cada conjunto de información se mantenga cercano a su categoría correspondiente, facilitando la consulta rápida. La organización jerárquica de fuentes será clave, donde los títulos principales de las secciones, como "Estado de Ruta" o "Alertas Activas", se destacarán con un tamaño de fuente mayor y mayor peso, mientras que los detalles más específicos se mostrarán con un estilo más liviano para facilitar la lectura. Además, el contenido será categorizado según audiencia (transportistas, empresas logísticas, administradores) y tópicos, como rutas disponibles, condiciones de los vehículos, y productos monitoreados, para garantizar una navegación eficiente. El esquema cronológico se aplicará en la visualización de las rutas y estados de transporte, permitiendo ver las actualizaciones más recientes en la parte superior de la pantalla, mientras que la información histórica se presentará de manera ordenada, para facilitar el seguimiento de las rutas anteriores.
 
+Link de Landing Page: https://agrorouteiot.netlify.app/
+
 ### 5.2.2. Labeling Systems
 
 A continuación, se definirán las etiquetas a utilizar para agrupar conjuntos de información, así como las asociaciones entre las mismas.
