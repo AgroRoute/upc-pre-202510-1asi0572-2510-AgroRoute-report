@@ -206,6 +206,20 @@ User goal 7: Dado a que el usuario se encuentra en la  pantalla de sensores, des
 <img src="https://i.postimg.cc/SNGdhRL1/77.jpg">
 
 ### 5.4.3. Applications Mockups
+#### Aplicación web:
+
+<img src="https://i.postimg.cc/FRcVzg8m/51.jpg">
+<img src="https://i.postimg.cc/rm65BRmH/52.jpg">
+<img src="https://i.postimg.cc/h41VYjqC/53.jpg">
+<img src="https://i.postimg.cc/SRSY46pg/54.jpg">
+<img src="https://i.postimg.cc/FK0YJWrP/55.jpg">
+
+#### Aplicación mobile:
+
+<img src="https://i.postimg.cc/FHLR2WL9/81.jpg">
+<img src="https://i.postimg.cc/L4Q8hKk9/82.jpg">
+<img src="https://i.postimg.cc/3N2ht6q6/83.jpg">
+
 ### 5.4.4. Applications User Flow Diagrams
 
 A continuación, se presentan los wireflows respectivos a nuestros user goals.
