@@ -107,7 +107,7 @@ A continuación, se muestra el formato que se empleará para los mensajes de com
 
 Esta sección detalla las convenciones que se emplearán en el desarrollo del proyecto, basándose en las especificaciones de Gherkin, las guías de estilo de HTML, y las convenciones de estilo de código para Java e IntelliJ y Kotlin.
 
-## GHERKIN
+**GHERKIN**
 
 Para los archivos de prueba con extensión `.feature`, se usará el lenguaje Gherkin.
 
@@ -148,7 +148,7 @@ Scenario Outline: Newline before Examples
     | 01.01.1800 |
 ```
 
-## HTML Style Guide
+**HTML Style Guide**
 
 Para archivos `.html`, se deben seguir estas normas:
 
@@ -168,7 +168,7 @@ Para archivos `.html`, se deben seguir estas normas:
 </section>
 ```
 
-## JAVA
+**JAVA**
 
 Para los archivos en Java:
 
@@ -178,41 +178,27 @@ Para los archivos en Java:
 
 ### 6.1.4. Software Deployment Configuration
 
-**Azure App Service para el Frontend:**
+**Google Cloud Provider Compute Engine para el Frontend**
 
-* **Hosting:**
-El frontend, desarrollado con Angular, está desplegado en Azure App Service, que permite la ejecución fluida de aplicaciones web dinámicas. Angular, siendo un framework SPA (Single-Page Application), aprovecha la entrega eficiente de recursos desde Azure, asegurando tiempos de carga rápidos y escalabilidad automática. Azure maneja el balanceo de carga y la administración de recursos para asegurar la alta disponibilidad y rendimiento del frontend.
+* **Hosting:**  
+El frontend, desarrollado con Angular, se despliega en usando una instancia de Google Cloud Provider (GCP), lo que facilita la ejecución de aplicaciones web dinámicas.
 
-* **Integraciones:**
-La aplicación Angular está integrada con Azure API Management, que gestiona las llamadas API al backend, garantizando la autenticación y seguridad en las transacciones. Además, se utilizan servicios como Azure Application Insights para monitorear el rendimiento de la aplicación, detectar errores y analizar el comportamiento del usuario en tiempo real, lo que permite optimizar la experiencia del usuario.
+* **Integraciones:**  
+Las llamadas al backend son hechas desde la misma instancia GCP que aloja el frontend de la aplicación. También se emplea el dashboard brindado por GCP para supervisar el rendimiento, registrar errores y analizar la interacción del usuario en tiempo real, mejorando así la experiencia del usuario.
 
-**GetJar para Mobile Application**
 
-* **Deployment Platform:**
-La aplicación móvil está empaquetada utilizando contenedores en Flutter y desplegada para Android e iOS. Se hace uso de servicios como GetJar para la distribución a los usuarios finales.
+**Bases de Datos**
 
-* **Integraciones:**
-La aplicación móvil se conecta a la API a través de llamadas HTTPS, utilizando Azure API Management para gestionar el tráfico y la autenticación de los usuarios. Otras integraciones incluyen la capacidad de notificaciones push utilizando servicios de Firebase Cloud Messaging (FCM).
+* **MySQL Database:**  
+Se emplea esta base de datos para almacenar información crítica de la aplicación como usuarios, servicios y órdenes. Ofrece escalabilidad, alta disponibilidad y recuperación automática ante fallos, lo que garantiza la seguridad de los datos y un rendimiento ajustable automáticamente.
 
-**Base de Datos**
-
-* **Azure SQL Database:**
-Para la gestión de los datos principales de la aplicación (usuarios, servicios, órdenes), se utiliza Azure SQL Database. Este servicio ofrece escalabilidad, alta disponibilidad y recuperación automática de desastres, lo que garantiza la seguridad y persistencia de los datos, y permite un ajuste del rendimiento automático.
-
-* **MySQL IoT Database:**
-Se utilizó una base de datos MySQL específica para el almacenamiento de datos generados por los dispositivos IoT. Esta base está optimizada para manejar grandes volúmenes de datos en tiempo real, asegurando una rápida escritura y consulta de los mismos para su procesamiento.
-
-**Azure IoT Edge - IoT Edge & Edge API (IoT Management)**
-* **Hosting:**
-El servicio de IoT y la API de Edge están desplegados en Azure IoT Edge y Azure Functions, proporcionando un entorno para procesar datos en el borde de la red antes de enviarlos al backend. Esto permite un análisis en tiempo real de los datos recogidos por los sensores de IoT y la ejecución de acciones inmediatas en dispositivos conectados.
-
-* **Integraciones:**
-Los datos recogidos por los dispositivos IoT se almacenan en una base de datos MySQL separada para el procesamiento especializado. La API de Edge también envía los resultados a la Web API para su almacenamiento y gestión adicional.
+* **Base de Datos MySQL para IoT:**  
+Se utiliza una instancia específica de MySQL para capturar y procesar datos generados por dispositivos IoT. Esta base está optimizada para manejar grandes volúmenes de datos en tiempo real, asegurando velocidad tanto en escritura como en lectura.
 
 **Web API (Backend)**
 
-* **Azure API Management - Hosting:**
-La API principal está desplegada en Azure API Management y ejecuta el backend utilizando Java, empacado dentro de contenedores Docker. Esto proporciona escalabilidad automática y facilita la implementación de actualizaciones sin tiempos de inactividad significativos.
+* **Google Cloud Provider Compute Engine - Hosting:**
+La API principal se despliega usando una instancia de GCP Management utilizando backend en Java, empacado en contenedores Docker. Esto permite escalar automáticamente y aplicar actualizaciones sin afectar la disponibilidad del sistema.
 
-* **Integraciones:**
-Se utiliza Azure SQL Database para almacenar datos de aplicación, como la información de usuarios, transacciones y reportes, mientras que Azure Functions maneja tareas como la gestión de dispositivos IoT, integrándose con el IoT Service y el Edge API para monitorear y procesar datos en tiempo real.
+* **Integraciones:**  
+Los datos relacionados con usuarios, transacciones y reportes se almacenan en una base de datos MySQL.
