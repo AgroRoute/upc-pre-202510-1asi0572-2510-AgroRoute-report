@@ -207,4 +207,34 @@ User goal 7: Dado a que el usuario se encuentra en la  pantalla de sensores, des
 
 ### 5.4.3. Applications Mockups
 ### 5.4.4. Applications User Flow Diagrams
+
+A continuación, se presentan los wireflows respectivos a nuestros user goals.
+
+User goal 1: Dado a que el usuario desea crear una cuenta, se presentan los pasos que debe seguir el usuario para registrarse en la aplicación. <br>
+
+<img src="https://i.postimg.cc/VNfQ7qH4/11.jpg">
+
+User goal 2: Dado a que el usuario desea iniciar sesión, se presentan los pasos que debe seguir el usuario para iniciar sesión en la aplicación. <br>
+
+<img src="https://i.postimg.cc/xdZQcktR/12.jpg">
+
+User goal 3: Dado a que el usuario se encuentra en el dashboard de la aplicación, desea registrar un envío para que sea monitoreado. <br>
+
+<img src="https://i.postimg.cc/4dvWjq79/13.jpg">
+
+User goal 4: Dado a que el usuario se encuentra en la pantalla de envíos, desea monitorear la temperatura y humedad sus productos de su envío. <br>
+
+<img src="https://i.postimg.cc/zvZy6DHJ/14.jpg">
+
+User goal 5: Dado a que el usuario se encuentra en la  pantalla de envíos, desea monitorear la ruta del transportista en tiempo real mediante un mapa. <br>
+
+<img src="https://i.postimg.cc/L86nrb5Z/15.jpg">
+
+User goal 6: Dado a que el usuario se encuentra en la  pantalla de gestión de alertas, desea visualizar las alertas de sus productos, como niveles altos de la temperatura o humedad. <br>
+
+<img src="https://i.postimg.cc/3wzN0rBg/16.jpg">
+
+User goal 7: Dado a que el usuario se encuentra en la  pantalla de sensores, desea visualizar los sensores activos y su ultima hora de actualización de la temperatura, humedad y GPS. <br>
+
+<img src="https://i.postimg.cc/c4dHnbQ5/17.jpg">
 ## 5.5. Applications Prototyping
