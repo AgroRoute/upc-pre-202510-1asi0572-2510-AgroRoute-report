@@ -237,4 +237,11 @@ User goal 6: Dado a que el usuario se encuentra en la  pantalla de gestión de a
 User goal 7: Dado a que el usuario se encuentra en la  pantalla de sensores, desea visualizar los sensores activos y su ultima hora de actualización de la temperatura, humedad y GPS. <br>
 
 <img src="https://i.postimg.cc/c4dHnbQ5/17.jpg">
+
 ## 5.5. Applications Prototyping
+
+<img src="https://i.postimg.cc/R0cPYd0y/entrevista.jpg"  width="450" height="280"> 
+
+Enlace: [Video-Prototyping](https://drive.google.com/file/d/1ZiHgYkGuxW2QYl-PMg0exB6AHAK6SMJi/view?usp=sharing)
+
+
