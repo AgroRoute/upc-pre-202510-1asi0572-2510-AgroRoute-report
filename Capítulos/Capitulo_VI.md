@@ -101,40 +101,80 @@ A continuación, se muestra el formato que se empleará para los mensajes de com
 7. **chore**: Cambios que no afectan el código de producción ni los tests (por ejemplo, actualizaciones en las herramientas de construcción o configuración).
     - Ejemplo: `chore(dependencies): update npm packages`
 
-    
+
 ### 6.1.3. Source Code Style Guide & Conventions
 
-En la siguiente sección se explicará las convenciones que se utilizaran en el desarrollo del proyecto las cuales se basan en Gherkin Specifications, HTML Style Guide, Code Style Java de IntelliJ y Kotlin Style Conventions.
 
-GHERKIN
+Esta sección detalla las convenciones que se emplearán en el desarrollo del proyecto, basándose en las especificaciones de Gherkin, las guías de estilo de HTML, y las convenciones de estilo de código para Java e IntelliJ y Kotlin.
 
-Para los archivos de prueba .feature se utilizó el lenguaje Gherkin
+## GHERKIN
 
-- Se utilizó la plantilla de Scenarios Given-When-Then incluyendo el feature y un ejemplo del escenario en una tabla al final.
-![Gherkin1](resources/images/capitulo_6/sourceCode1.png)
+Para los archivos de prueba con extensión `.feature`, se usará el lenguaje Gherkin.
 
-- Al final de cada uno se brindó un ejemplo de los pasos en una tabla
-![gherkin](resources/images/capitulo_6/sourceCode2.png)
+- Se deben usar escenarios con el formato **Given-When-Then**, incluyendo un título de feature y un ejemplo escrito en este formato con sangrías para mejorar la legibilidad. Se sugiere comenzar cada paso con “And” cuando sea parte del mismo bloque.
 
-HTML Style Guide
+```gherkin
+Scenario: Discernible Given-When-Then Blocks
+  In order to quickly spot where one block ends and another one begins,
+  you can indent the steps starting with “And”
 
-Para el desarrollo de archivos .html se siguieron las siguientes convenciones:
+  Given I need to prepare some data for my scenario
+    And this is more complex so I need a second step
+    And this is more complex so I need a third step
 
-- Se utilizó minúsculas para nombrar a los elementos
-![Html](resources/images/capitulo_6/sourceCode3.png)
+  When I trigger some action
+    And I can see this outcome
+    And this outcome also has a second step
+    And this outcome also has a third step
+```
 
-- Todos los elementos tienen sus finalizaciones
-![Html](resources/images/capitulo_6/sourceCode4.png)
+- Al final de cada escenario, se incluirá un ejemplo en forma de tabla para mostrar los datos utilizados. Es importante dejar líneas en blanco entre pasos para evitar confusión, especialmente cuando se usan tablas.
 
+```gherkin
+Scenario Outline: Newline before Examples
+  Squashed together steps with no newlines to separate them
+  makes it more difficult to discern which information belongs together
+  especially if tables are involved
 
-JAVA
+  Given I add a new person
+    And this person has the birthdate `<birthdate>`
 
-Para los archivos en Java se aplicaron convenciones en el nombramiento de clases y métodos.
+  When I try to save this person
 
-- Se utilizó UpperCamelCase para nombrar clases
-    
-- lowerCamelCase se utilizó para nombrar variables y métodos.
-    
+  Then I receive the error message for `invalid birthdate`
+
+  Examples:
+    | birthdate |
+    | 01.01.1800 |
+```
+
+## HTML Style Guide
+
+Para archivos `.html`, se deben seguir estas normas:
+
+- Los nombres de los elementos deben escribirse en minúscula.
+
+```html
+<body>
+  <p>This is a paragraph.</p>
+</body>
+```
+
+- Todos los elementos deben cerrarse correctamente.
+
+```html
+<section>
+  <p>This is a paragraph.</p>
+</section>
+```
+
+## JAVA
+
+Para los archivos en Java:
+
+- Se emplea el formato **UpperCamelCase** para nombrar clases y métodos.
+- Se utiliza **lowerCamelCase** para nombrar variables y atributos.
+
 
 ### 6.1.4. Software Deployment Configuration
 
