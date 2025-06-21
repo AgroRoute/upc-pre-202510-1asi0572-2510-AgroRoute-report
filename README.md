@@ -32,7 +32,7 @@
 |Pachas Chavez, Alejandro              | U201917598   |
 | Tasayco Vilcamiza, Damaris           | U202119605   |
  
-#### Abril,2025
+#### Junio,2025
 </div>
 
 
