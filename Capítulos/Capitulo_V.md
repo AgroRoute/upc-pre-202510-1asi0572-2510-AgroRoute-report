@@ -259,3 +259,96 @@ User goal 7: Dado a que el usuario se encuentra en la  pantalla de sensores, des
 Enlace: [Video-Prototyping](https://drive.google.com/file/d/1ZiHgYkGuxW2QYl-PMg0exB6AHAK6SMJi/view?usp=sharing)
 
 
+## 5.6. Heuristic Evaluation
+
+### 5.6.1. Visibilidad del estado del sistema
+**Positivo:**
+- Se plantea un sistema de notificaciones en tiempo real para que el usuario conozca el estado de su paquete, incluso ante incidencias (Ej. averías o desastres naturales).
+
+**Mejora sugerida:**
+- Asegurar que la visibilidad esté implementada en cada etapa del envío, no solo en cambios de estado grandes. Por ejemplo, incluir mensajes como “en tránsito por Junín” o “esperando carga”.
+
+---
+
+### 5.6.2. Correspondencia entre el sistema y el mundo real
+**Positivo:**
+- El lenguaje usado en entrevistas y diseño está alineado con los usuarios objetivo (remitentes y agencias), lo cual facilita la comprensión.
+
+**Mejora sugerida:**
+- Cuidar que los términos técnicos como "IoT", “backend”, etc., estén traducidos a lenguaje simple dentro de la interfaz visible al usuario final.
+
+---
+
+### 5.6.3. Control y libertad del usuario
+**Positivo:**
+- Se menciona que el usuario puede registrar y consultar su envío en cualquier momento.
+
+**Mejora sugerida:**
+- Incluir opciones claras para cancelar o modificar envíos, reenviar notificaciones o elegir canales de notificación (email, SMS, app).
+
+---
+
+### 5.6.4. Consistencia y estándares
+**Positivo:**
+- Se utilizan elementos de estilo definidos en la sección "Style Guidelines", lo que apunta a una interfaz consistente.
+
+**Mejora sugerida:**
+- Validar que estos lineamientos se mantengan iguales en todos los dispositivos (responsive design para web, móvil, IoT).
+
+---
+
+### 5.6.5. Prevención de errores
+**Mejora sugerida:**
+- No se observa una estrategia clara de validación de entradas (ej. fechas, códigos, ubicaciones) o mensajes de error amigables en el documento.
+
+**✔️ Recomendación:**
+- Implementar validaciones en formularios y mensajes preventivos para minimizar errores del usuario.
+
+---
+
+### 5.6.6. Reconocimiento antes que memorización
+**Positivo:**
+- Uso de íconos, códigos de seguimiento y categorización del paquete (sugerido por usuarios) reduce la carga cognitiva.
+
+**Mejora sugerida:**
+- Incluir historial de envíos previos para que el usuario no tenga que recordar datos de seguimiento.
+
+---
+
+### 5.6.7. Flexibilidad y eficiencia de uso
+**Positivo:**
+- El sistema permite a usuarios frecuentes (Ej. vendedores) realizar registros rápidos y seguimiento constante.
+
+**Mejora sugerida:**
+- Agregar funciones para usuarios avanzados como plantillas de envío, o escaneo automático de datos del paquete.
+
+---
+
+### 5.6.8. Diseño estético y minimalista
+**Positivo:**
+- El estilo moderno, limpio y funcional fue una prioridad declarada, tanto en wireframes como mockups.
+
+**Mejora sugerida:**
+- Cuidar el balance entre minimalismo y funcionalidad. El exceso de “limpieza” puede ocultar funciones útiles si no están claramente accesibles.
+
+---
+
+### 5.6.9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+**Mejora sugerida:**
+- No se especifica cómo el sistema responde ante errores, como códigos inválidos o paquetes no registrados.
+
+**✔️ Recomendación:**
+- Mostrar mensajes claros y sugerencias (“¿El código está bien escrito?”, “Verifique si ya se registró el paquete en el sistema”).
+
+---
+
+### 5.6.10. Ayuda y documentación
+**Positivo:**
+- Se propone un tutorial interactivo y una sección de preguntas frecuentes.
+
+**Mejora sugerida:**
+- Incluir ayuda contextual (tooltips, asistentes virtuales) dentro de la misma interfaz para reducir dependencia del soporte externo.
+
+---
+
+
